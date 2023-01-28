@@ -1,0 +1,41 @@
+[
+ {
+ "name": "German Shepherd",
+ "species": "dog",
+ "foods": {
+ "likes": [
+ "meat",
+ "sambar deer"
+ ],
+ "dislikes": [
+ "grass",
+ "greens"
+ ]
+ }
+ },
+ {
+ "name": "Barky1",
+ "species": "dog",
+ "foods": {
+ "likes": [
+ "bones",
+ "carrots"
+ ],
+ "dislikes": [
+ "tuna"
+ ]
+ }
+ },
+ {
+ "name": "Purrpaws1",
+ "species": "cat",
+ "foods": {
+ "likes": [
+ "mice"
+ ],
+ "dislikes": [
+ "cookies"
+ ]
+ }
+ }
+]
